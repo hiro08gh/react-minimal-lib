@@ -3,4 +3,8 @@ import { render } from 'react-dom';
 
 const App: React.SFC = () => <div>App</div>;
 
-render(<App />,document.getElementById('root'));
+render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+document.getElementById('root'));
