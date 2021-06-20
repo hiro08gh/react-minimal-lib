@@ -1,5 +1,5 @@
-# react-minimal-dev
-React + TypeScript super minimal setup.Usign snowpack.
+# react-minimal-lib
+React + TypeScript super minimal library develop kit. Usign microbundle.
 
 ## Usage
 
@@ -10,8 +10,6 @@ $ yarn install
 ```
 $ yarn start
 ```
-
-Check localhost:8080
 
 ## build
 
