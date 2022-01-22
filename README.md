@@ -1,5 +1,5 @@
 # react-minimal-lib
-React + TypeScript super minimal library develop kit. Usign microbundle.
+React + TypeScript super minimal library development kit. Using microbundle.
 
 ## Usage
 
